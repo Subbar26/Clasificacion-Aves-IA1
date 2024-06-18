@@ -1,7 +1,7 @@
 # Clasificación de Aves IA1
 Proyecto de Inteligencia Artificial I: implementar un modelo de inteligencia artificial para clasificar aves de acuerdo a una cantidad de especies.
 
-![Banner](./banner.jpg)
+![Banner](./banner.png)
 
 ## Autores
 Miguel Fernando Pimiento Escobar - 2210054, Jesús David Ramírez Celis - 2211593
