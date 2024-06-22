@@ -17,5 +17,5 @@ Gaussian Naive Bayes, Decision Tree, Random Forest, SVM, Deep Learning
 
 ## Enlaces
 - [Código del Proyecto](Proyecto_final_vf.ipynb)
-- [Video del Proyecto](URL_DEL_VIDEO)
+- [Video del Proyecto](https://www.youtube.com/watch?v=L34vGJLVIDA)
 - [Repositorio en GitHub](https://github.com/Subbar26/Clasificacion-Aves-IA1)
